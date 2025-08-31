@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Inventory Management.exe" version="1.0.0.1" publicKeyToken="c0406dee1c7afe87" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="inventory.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Inventory Management" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Inventory Management.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Inventory Management.exe" size="1050624">
+      <assemblyIdentity name="Inventory Management" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>wXQTeHd47NtvajXAgtj0tFkSNzU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zxing.dll" size="540672">
+      <assemblyIdentity name="zxing" version="0.16.10.0" publicKeyToken="4E88037AC681FE60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>+eOMf2UEUS/hYe66Ds9j9FNhas0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zxing.presentation.dll" size="19968">
+      <assemblyIdentity name="zxing.presentation" version="0.16.10.0" publicKeyToken="4E88037AC681FE60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>rT7SRc6JF+/1HxWvxFBgO3IOVTk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="inventory.ico" size="4286">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ZkhFBGplHt1rKlDWKq00582O8yY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=DESKTOP-MHJQLER\Shivam" issuerKeyHash="d4fba25766ab38a7fe89c548e5905e9e76af174a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>gz1jCLwQJsFGg4wVhNleUY0Ft+Q=</DigestValue></Reference></SignedInfo><SignatureValue>qSNB0ow5c9KqyoiLcMiKW1Puf8tk92QdP1GmcIotOlMdW0sECyF4ngXOkdzvnSlsY/V7xpK2JA5K/V9CmjU3C4ozA4oQlnyfjxN7em4iMQHRIa02C3AlSLK7TiEJUqk30LWcrfol/q6eXcmY+ZGuZu/cpNBC6mxQfR0CabuJ48g=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>056vroMkQeQ9G2a53Og/XqXGi4vfYiHK6swVV9x01myyiMotAk4xtV4k9BDhTq4oMVB64pLJSxVBSkRZwd6B0s2Pdc7qObnYzOXKE5s5ur9rAihOeYai5fDscx/U2PWRzz3uL02/MWPKdvsNHQV2t4cmQyEmn/WyXsQe74dZhtE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e4b7058d515ed984158c8346c12610bc08633d83" Description="" Url=""><as:assemblyIdentity name="Inventory Management.exe" version="1.0.0.1" publicKeyToken="c0406dee1c7afe87" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-MHJQLER\Shivam</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>zFTLehoygzVZWScqTomph+O5E+4=</DigestValue></Reference></SignedInfo><SignatureValue>D08mYBOcnrkRd+efr1nTRPUly1J4zSL5OaWqh8kMTVG2KRYvTFYxiChtCNrbX4XjFBrvNlpImB14QI2mU0HEaLvt1vIajbBfVX+9+prsByO0U3B0nSOy8lr8W4L2JfpsL1gzWxT9jk6xGGg5k0n+GSgNFDswOwlDn/SteB9WjFA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>056vroMkQeQ9G2a53Og/XqXGi4vfYiHK6swVV9x01myyiMotAk4xtV4k9BDhTq4oMVB64pLJSxVBSkRZwd6B0s2Pdc7qObnYzOXKE5s5ur9rAihOeYai5fDscx/U2PWRzz3uL02/MWPKdvsNHQV2t4cmQyEmn/WyXsQe74dZhtE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQWOdljI69oKdNZJpwF+8PXjANBgkqhkiG9w0BAQUFADA3MTUwMwYDVQQDHiwARABFAFMASwBUAE8AUAAtAE0ASABKAFEATABFAFIAXABTAGgAaQB2AGEAbTAeFw0yNTA4MjMxMjI5MDFaFw0yNjA4MjMxODI5MDFaMDcxNTAzBgNVBAMeLABEAEUAUwBLAFQATwBQAC0ATQBIAEoAUQBMAEUAUgBcAFMAaABpAHYAYQBtMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDTnq+ugyRB5D0bZrnc6D9epcaLi99iIcrqzBVX3HTWbLKIyi0CTjG1XiT0EOFOrigxUHrikslLFUFKRFnB3oHSzY91zuo5udjM5coTmzm6v2sCKE55hqLl8OxzH9TY9ZHPPe4vTb8xY8p2+w0dBXa3hyZDISaf9bJexB7vh1mG0QIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAGTAFcJxSgaRbcNuF3jd7xk68UF1ojizVx6gGBitrLF7J/fI2+v+Qha+gPWlksnpQBCzmTZ30de3oQjbux82/p9XdvEuEhVtwiXaGBgSFdscrBCk8jgAKO5xkg4Z+SxfwXN7C5V3mkdOy6tsNpJvjgDnnl8oQZNT4jHVpZK2Ley2</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

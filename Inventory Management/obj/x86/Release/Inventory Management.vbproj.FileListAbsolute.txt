@@ -1,0 +1,25 @@
+D:\VB .net\Practice\Inventory Management\Inventory Management\bin\Release\Inventory Management.exe
+D:\VB .net\Practice\Inventory Management\Inventory Management\bin\Release\Inventory Management.pdb
+D:\VB .net\Practice\Inventory Management\Inventory Management\bin\Release\Inventory Management.xml
+D:\VB .net\Practice\Inventory Management\Inventory Management\bin\Release\zxing.dll
+D:\VB .net\Practice\Inventory Management\Inventory Management\bin\Release\zxing.presentation.dll
+D:\VB .net\Practice\Inventory Management\Inventory Management\bin\Release\zxing.xml
+D:\VB .net\Practice\Inventory Management\Inventory Management\bin\Release\zxing.presentation.xml
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\InventoryManagement.AddDiscountCoupons.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\InventoryManagement.AddProduct.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\InventoryManagement.category.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\InventoryManagement.Dashboard.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\InventoryManagement.Dash_Panel.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\InventoryManagement.Forgot_Password.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\InventoryManagement.Login.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\InventoryManagement.ManageStock.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\InventoryManagement.Resources.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\InventoryManagement.POSForm.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\InventoryManagement.ShowInventory.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\InventoryManagement.Sign_up.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\InventoryManagement.StoreDetailsForm.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\InventoryManagement.Transactions.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\Inventory Management.vbproj.GenerateResource.Cache
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\Inventory Management.exe
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\Inventory Management.xml
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Release\Inventory Management.pdb

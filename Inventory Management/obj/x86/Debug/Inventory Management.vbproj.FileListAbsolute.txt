@@ -1,0 +1,138 @@
+D:\VB .net\Practice\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe
+D:\VB .net\Practice\Inventory Management\Inventory Management\bin\Debug\Inventory Management.pdb
+D:\VB .net\Practice\Inventory Management\Inventory Management\bin\Debug\Inventory Management.xml
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\Inventory Management.vbproj.GenerateResource.Cache
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\Inventory Management.exe
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\Inventory Management.xml
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\Inventory Management.pdb
+D:\VB .net\Practice\Inventory Management\Inventory Management\bin\Debug\zxing.dll
+D:\VB .net\Practice\Inventory Management\Inventory Management\bin\Debug\zxing.presentation.dll
+D:\VB .net\Practice\Inventory Management\Inventory Management\bin\Debug\zxing.xml
+D:\VB .net\Practice\Inventory Management\Inventory Management\bin\Debug\zxing.presentation.xml
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\Inventory Management.vbprojResolveAssemblyReference.cache
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.AddDiscountCoupons.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.AddProduct.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.category.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.Dashboard.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.Dash_Panel.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.Forgot_Password.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.Login.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.ManageStock.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.Resources.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.POSForm.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.ShowInventory.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.Sign_up.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.StoreDetailsForm.resources
+D:\VB .net\Practice\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.Transactions.resources
+D:\Inventory Management\Inventory Management\obj\x86\Debug\Inventory Management.exe
+D:\Inventory Management\Inventory Management\obj\x86\Debug\Inventory Management.xml
+D:\Inventory Management\Inventory Management\obj\x86\Debug\Inventory Management.pdb
+D:\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe
+D:\Inventory Management\Inventory Management\bin\Debug\Inventory Management.pdb
+D:\Inventory Management\Inventory Management\bin\Debug\Inventory Management.xml
+D:\Inventory Management\Inventory Management\bin\Debug\zxing.dll
+D:\Inventory Management\Inventory Management\bin\Debug\zxing.presentation.dll
+D:\Inventory Management\Inventory Management\bin\Debug\zxing.xml
+D:\Inventory Management\Inventory Management\bin\Debug\zxing.presentation.xml
+D:\Inventory Management\Inventory Management\obj\x86\Debug\Inventory Management.vbprojResolveAssemblyReference.cache
+D:\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.AddDiscountCoupons.resources
+D:\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.AddProduct.resources
+D:\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.category.resources
+D:\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.Dashboard.resources
+D:\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.Dash_Panel.resources
+D:\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.Forgot_Password.resources
+D:\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.Login.resources
+D:\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.ManageStock.resources
+D:\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.Resources.resources
+D:\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.POSForm.resources
+D:\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.ShowInventory.resources
+D:\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.Sign_up.resources
+D:\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.StoreDetailsForm.resources
+D:\Inventory Management\Inventory Management\obj\x86\Debug\InventoryManagement.Transactions.resources
+D:\Inventory Management\Inventory Management\obj\x86\Debug\Inventory Management.vbproj.GenerateResource.Cache
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\Inventory Management.exe
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\Inventory Management.xml
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\Inventory Management.pdb
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\Inventory Management.exe
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\Inventory Management.pdb
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\Inventory Management.xml
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\zxing.dll
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\zxing.presentation.dll
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\zxing.xml
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\zxing.presentation.xml
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\Inventory Management.vbprojResolveAssemblyReference.cache
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.AddDiscountCoupons.resources
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.AddProduct.resources
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.category.resources
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.Dashboard.resources
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.Dash_Panel.resources
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.Forgot_Password.resources
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.Login.resources
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.ManageStock.resources
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.Resources.resources
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.POSForm.resources
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.ShowInventory.resources
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.Sign_up.resources
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.StoreDetailsForm.resources
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.Transactions.resources
+F:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\Inventory Management.vbproj.GenerateResource.Cache
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\Inventory Management.exe
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\Inventory Management.pdb
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\Inventory Management.xml
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\zxing.dll
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\zxing.presentation.dll
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\zxing.xml
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\zxing.presentation.xml
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.AddDiscountCoupons.resources
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.AddProduct.resources
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.category.resources
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.Dashboard.resources
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.Dash_Panel.resources
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.Forgot_Password.resources
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.Login.resources
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.ManageStock.resources
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.Resources.resources
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.POSForm.resources
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.ShowInventory.resources
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.Sign_up.resources
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.StoreDetailsForm.resources
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\InventoryManagement.Transactions.resources
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\Inventory Management.vbproj.GenerateResource.Cache
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\Inventory Management.exe
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\Inventory Management.xml
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\Inventory Management.pdb
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\Inventory Management.exe.manifest
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\bin\Debug\Inventory Management.application
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\Inventory Management.exe.manifest
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\Inventory Management.application
+D:\BCA - 6th Sem - 22047497 (5508), 22047517(5510)\Inventory Management\obj\x86\Debug\Inventory Management.vbprojResolveAssemblyReference.cache
+D:\Inventory management system\Inventory Management\obj\x86\Debug\Inventory Management.exe
+D:\Inventory management system\Inventory Management\obj\x86\Debug\Inventory Management.xml
+D:\Inventory management system\Inventory Management\obj\x86\Debug\Inventory Management.pdb
+D:\Inventory management system\Inventory Management\bin\Debug\Inventory Management.exe.manifest
+D:\Inventory management system\Inventory Management\bin\Debug\Inventory Management.application
+D:\Inventory management system\Inventory Management\bin\Debug\Inventory Management.exe
+D:\Inventory management system\Inventory Management\bin\Debug\Inventory Management.pdb
+D:\Inventory management system\Inventory Management\bin\Debug\Inventory Management.xml
+D:\Inventory management system\Inventory Management\bin\Debug\zxing.dll
+D:\Inventory management system\Inventory Management\bin\Debug\zxing.presentation.dll
+D:\Inventory management system\Inventory Management\bin\Debug\zxing.xml
+D:\Inventory management system\Inventory Management\bin\Debug\zxing.presentation.xml
+D:\Inventory management system\Inventory Management\obj\x86\Debug\Inventory Management.vbprojResolveAssemblyReference.cache
+D:\Inventory management system\Inventory Management\obj\x86\Debug\InventoryManagement.AddDiscountCoupons.resources
+D:\Inventory management system\Inventory Management\obj\x86\Debug\InventoryManagement.AddProduct.resources
+D:\Inventory management system\Inventory Management\obj\x86\Debug\InventoryManagement.category.resources
+D:\Inventory management system\Inventory Management\obj\x86\Debug\InventoryManagement.Dashboard.resources
+D:\Inventory management system\Inventory Management\obj\x86\Debug\InventoryManagement.Dash_Panel.resources
+D:\Inventory management system\Inventory Management\obj\x86\Debug\InventoryManagement.Forgot_Password.resources
+D:\Inventory management system\Inventory Management\obj\x86\Debug\InventoryManagement.Login.resources
+D:\Inventory management system\Inventory Management\obj\x86\Debug\InventoryManagement.ManageStock.resources
+D:\Inventory management system\Inventory Management\obj\x86\Debug\InventoryManagement.Resources.resources
+D:\Inventory management system\Inventory Management\obj\x86\Debug\InventoryManagement.POSForm.resources
+D:\Inventory management system\Inventory Management\obj\x86\Debug\InventoryManagement.ShowInventory.resources
+D:\Inventory management system\Inventory Management\obj\x86\Debug\InventoryManagement.Sign_up.resources
+D:\Inventory management system\Inventory Management\obj\x86\Debug\InventoryManagement.StoreDetailsForm.resources
+D:\Inventory management system\Inventory Management\obj\x86\Debug\InventoryManagement.Transactions.resources
+D:\Inventory management system\Inventory Management\obj\x86\Debug\Inventory Management.vbproj.GenerateResource.Cache
+D:\Inventory management system\Inventory Management\obj\x86\Debug\Inventory Management.exe.manifest
+D:\Inventory management system\Inventory Management\obj\x86\Debug\Inventory Management.application

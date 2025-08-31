@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InventoryManagement Setup", "InventoryManagement Setup\InventoryManagement Setup.vdproj", "{681E1E0F-DF8D-4A5D-978A-75683FD2D153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681E1E0F-DF8D-4A5D-978A-75683FD2D153}.Debug|Default.ActiveCfg = Debug
+		{681E1E0F-DF8D-4A5D-978A-75683FD2D153}.Debug|Default.Build.0 = Debug
+		{681E1E0F-DF8D-4A5D-978A-75683FD2D153}.Release|Default.ActiveCfg = Release
+		{681E1E0F-DF8D-4A5D-978A-75683FD2D153}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
